@@ -1,5 +1,6 @@
 # test_repo01
 Webシステムのテストリポジトリ01   <br>
-MITライセンス準拠
+MITライセンス準拠したい人生だった
 <h1>今日眠たすぎるんだが</h1>
-<strong>ぐぅ...</strong>
+<strong>ぐぅ...</strong><br>
+Discordで騒いでる奴らうるさすぎて爆笑
